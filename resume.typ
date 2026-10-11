@@ -11,7 +11,7 @@
 == Education
 
 *Arizona State University*
-- Computer Science B.S. | Dec. 2028
+- Computer Science B.S. | Estimated Dec. 2028 Graduation
 - GPA: 3.94
 
 #v(14pt)
@@ -21,15 +21,22 @@
 #v(10pt)
 
 *Personal Homelab -- Dockerized Media & Self-Hosted Services*
-- wigga buh
-- sdsd
-- sdsdsd
+- Deployed and maintained 10+ containerized services (Plex, Jellyfin, Sonarr, Radarr, Prowlarr, Jellyseerr, Immich,
+Vaultwarden, Kavita, Komga, etc.) using Docker Compose on a Windows/WSL2 Ubuntu environment, supporting 9
+users and a 20TB media library.
+- Configured Nginx Proxy Manager with Let’s Encrypt HTTPS and Cloudflare Tunnel (cloudflared) for secure remote
+access; managed port forwarding and Docker networking for service availability.
+- Administered the Linux/WSL2 environment, including container volumes, networking, service dependencies,
+updates, and troubleshooting across the self-hosted stack.
+- Monitored service usage and streaming activity with Tautulli, using operational data to track system utilization.
 
 #v(8pt)
 
 *hasansyed.dev -- Serverless Portfolio*
-- AWS S3 + Cloudfront 
-- Implemented a visitor counter with API Gateway, Lambda, and DynamoDB.
+- AWS S3 + Cloudfront
+- DNS configured in Cloudflare
+- Implemented a visitor counter with API Gateway, Lambda, and DynamoDB
+- Frontend written in HTML w/ CSS
 
 #v(8pt)
 

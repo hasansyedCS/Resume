@@ -4,7 +4,8 @@
 
 = Hasan Syed
 
-*Computer Science Student @ ASU*
+*Email: hasansyed730@gmail.com*
+*Phone Number: (832) 572-2216*
 
 #v(14pt)
 
@@ -21,13 +22,9 @@
 #v(10pt)
 
 *Personal Homelab -- Dockerized Media & Self-Hosted Services*
-- Deployed and maintained 10+ containerized services (Plex, Jellyfin, Sonarr, Radarr, Prowlarr, Jellyseerr, Immich,
-Vaultwarden, Kavita, Komga, etc.) using Docker Compose on a Windows/WSL2 Ubuntu environment, supporting 9
-users and a 20TB media library.
-- Configured Nginx Proxy Manager with Let’s Encrypt HTTPS and Cloudflare Tunnel (cloudflared) for secure remote
-access; managed port forwarding and Docker networking for service availability.
-- Administered the Linux/WSL2 environment, including container volumes, networking, service dependencies,
-updates, and troubleshooting across the self-hosted stack.
+- Deployed and maintained 10+ containerized services (Plex, Jellyfin, Sonarr, Radarr, Prowlarr, Jellyseerr, Immich, Vaultwarden, Kavita, Komga, etc.) using Docker Compose on Windows/WSL2 Ubuntu environment, supporting 9 users and a 20TB media library.
+- Configured Nginx Proxy Manager with Let’s Encrypt HTTPS and Cloudflare Tunnel (cloudflared) for secure remote access; managed port forwarding and Docker networking for service availability.
+- Administered the Linux/WSL2 environment, including container volumes, networking, service dependencies, updates, and troubleshooting across the self-hosted stack.
 - Monitored service usage and streaming activity with Tautulli, using operational data to track system utilization.
 
 #v(8pt)

@@ -4,8 +4,10 @@
 
 = Hasan Syed
 
-*Email: hasansyed730@gmail.com*
-*Phone Number: (832) 572-2216*
+#v(10pt)
+
+*Email:* #link("mailto:hasansyed730@gmail.com")\
+*Phone Number:* (832) 572-2216
 
 #v(14pt)
 

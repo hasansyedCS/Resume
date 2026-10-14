@@ -23,15 +23,23 @@ GitHub: https://github.com/hasansyedCS *|* Portfolio: https://hasansyed.dev
 - Computer Science B.S. | Estimated Dec. 2028 Graduation
 - GPA: 3.94
 
-#v(14pt)
+#v(12pt)
 
 == Technical Skills
 
-- Languages: Python, SQL, HTML, CSS
-- Cloud & Infrastructure: AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), Docker, Docker Compose, Cloudflare
-- Tools: Git, Linux, Neovim
+#v(10pt)
 
-#v(14pt)
+*Languages*: Python, SQL, HTML, CSS\
+
+#v(3pt)
+
+*Cloud & Infrastructure*: AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), Docker, Docker Compose, Cloudflare\
+
+#v(3pt)
+
+*Tools*: Git, Linux, Neovim
+
+#v(12pt)
 
 == Projects & Experience
 

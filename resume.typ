@@ -8,9 +8,12 @@
 #v(10pt)
 
 *Email:* #link("mailto:hasansyed730@gmail.com")\
-*Phone Number:* (832) 572-2216
+*Phone Number:* (832) 572-2216\
 
-#v(14pt)
+#v(8pt)
+
+GitHub: https://github.com/hasansyedCS *|* Portfolio: https://hasansyed.dev
+#v(10pt)
 
 == Education
 
@@ -22,15 +25,24 @@
 
 #v(14pt)
 
+== Technical Skills
+
+- Languages: Python, SQL, HTML, CSS
+- Cloud & Infrastructure: AWS (S3, CloudFront, Lambda, API Gateway, DynamoDB), Docker, Docker Compose, Cloudflare
+- Tools: Git, Linux, Neovim
+
+#v(14pt)
+
 == Projects & Experience
 
 #v(10pt)
 
-*Personal Homelab -- Dockerized Media & Self-Hosted Services*
-- Deployed and maintained 10+ containerized services (Plex, Jellyfin, Immich, Vaultwarden, Kavita, Komga, etc.) using Docker Compose on Windows/WSL2 Ubuntu environment, supporting 9 users and a 20TB media library.
-- Configured Nginx Proxy Manager with Let’s Encrypt HTTPS and Cloudflare Tunnel (cloudflared) for secure remote access with custom domain; managed port forwarding and Docker networking for service availability.
-- Administered the Linux/WSL2 environment, including container volumes, networking, service dependencies, updates, and troubleshooting across the self-hosted stack.
-- Monitored service usage and streaming activity with Tautulli, using operational data to track system utilization.
+*Personal Homelab — Dockerized Media & Self-Hosted Services*
+
+- Deployed and maintained 10+ Docker Compose services (Plex, Jellyfin, Immich, Vaultwarden, Kavita) supporting 9 users and a 20TB media library.
+- Configured Nginx Proxy Manager, Let's Encrypt HTTPS, and Cloudflare Tunnel for remote access through a custom domain.
+- Managed container networking, persistent volumes, service dependencies, and troubleshooting; monitored streaming activity with Tautulli.
+
 
 #v(8pt)
 
@@ -39,26 +51,3 @@
 - DNS configured in Cloudflare
 - Implemented a visitor counter with API Gateway, Lambda, and DynamoDB
 - Frontend written in HTML w/ CSS
-
-#v(8pt)
-
-*Lumira -- Media Review Aggregator*
-- Aims to compile all reviews from a variety of media reviewing sites for local storage on host computer.
-- Containerization with Docker
-- Planned CSV import feature from Letterboxd, Hardcover, and Goodreads.
-
-#v(14pt)
-
-== Links
-
-#v(10pt)
-GitHub: https://github.com/hasansyedCS
-
-#v(8pt)
-
-Portfolio: https://hasansyed.dev
-
-
-#v(8pt)
-
-LinkedIn: https://www.linkedin.com/in/hasansyedCS

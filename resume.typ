@@ -20,7 +20,7 @@ GitHub: https://github.com/hasansyedCS *|* Portfolio: https://hasansyed.dev
 #v(10pt)
 
 *Arizona State University*
-- Computer Science B.S. | Estimated Dec. 2028 Graduation
+- Computer Science B.S. | Expected Dec. 2028
 - GPA: 3.94
 
 #v(12pt)

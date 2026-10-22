@@ -59,3 +59,5 @@ GitHub: https://github.com/hasansyedCS *|* Portfolio: https://hasansyed.dev
 - DNS configured in Cloudflare
 - Implemented a visitor counter with API Gateway, Lambda, and DynamoDB
 - Frontend written in HTML w/ CSS
+- Deployed via custom domain
+- #link("https://hasansyed.dev")[Live Deployment Link] 

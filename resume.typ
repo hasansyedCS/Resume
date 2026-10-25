@@ -55,7 +55,7 @@ GitHub: https://github.com/hasansyedCS *|* Portfolio: https://hasansyed.dev
 #v(8pt)
 
 *hasansyed.dev -- Serverless Portfolio*
-- AWS S3 + CloudFront
+- AWS S3 + CloudFront infrastructure stack
 - DNS configured in Cloudflare
 - Implemented a visitor counter with API Gateway, Lambda, and DynamoDB
 - Frontend written in HTML w/ CSS
